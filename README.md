@@ -74,7 +74,5 @@ Usage:
 
 Allow location access for accurate weather data.
 View real-time weather information and animated icons.
-## Documentation
 
-[Documentation](http://localhost:3000)
 
