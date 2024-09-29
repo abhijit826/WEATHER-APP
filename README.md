@@ -1,5 +1,5 @@
 ![Screenshot 2024-09-27 000842](https://github.com/user-attachments/assets/4c64f306-6766-4abd-bc77-8c0a8a3de980)
-Weather App
+WEATHER APPLICATION
 
 A React-based Weather App that provides real-time weather updates based on the user's geolocation. It features an animated weather icon and a user-friendly interface displaying the current temperature, humidity, and weather conditions.
 
