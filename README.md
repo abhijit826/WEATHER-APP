@@ -4,7 +4,7 @@
 
 A React-based Weather App that provides real-time weather updates based on the user's geolocation. It features an animated weather icon and a user-friendly interface displaying the current temperature, humidity, and weather conditions.
 
-Features:
+# Features:
 
 Geolocation Support: Automatically detects the user's location to fetch weather data.
 
@@ -14,7 +14,7 @@ Animated Weather Icons: Displays different weather conditions using animated ico
 
 User-Friendly Interface: Easy-to-navigate design showing essential weather details.
 
-Technologies Used:
+# Technologies Used:
 
 React
 
@@ -28,7 +28,7 @@ React Animated Weather
 
 Getting Started
 
-Prerequisites:
+# Prerequisites:
 
 Make sure you have the following installed on your machine:
 
@@ -66,11 +66,11 @@ Start the development server:
 npm start
 ```
 
-Running the App:
+# Running the App:
 
 Open your browser and navigate to http://localhost:3000 to see the app in action. The app will automatically detect your location and display the current weather.
 
-Usage:
+# Usage:
 
 Allow location access for accurate weather data.
 View real-time weather information and animated icons.
