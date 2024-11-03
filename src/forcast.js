@@ -1,6 +1,6 @@
 import React, { useState, useEffect, Component } from "react";
 import axios from "axios";
-import apiKeys from "./apiKeys";
+import apiKeys from "./.env";
 import ReactAnimatedWeather from "react-animated-weather";
 
 function Forcast(props) {
