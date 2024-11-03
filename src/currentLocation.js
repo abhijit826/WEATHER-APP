@@ -1,5 +1,5 @@
 import React from "react";
-import apiKeys from "./apiKeys";
+import apiKeys from "./.env";
 import Clock from "react-live-clock";
 import Forcast from "./forcast";
 import loader from "./images/WeatherIcons.gif";
